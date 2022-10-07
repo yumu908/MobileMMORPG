@@ -39,6 +39,6 @@ The infinite chunk based map loaded from tiled will be serve for this dungeon pa
 When logging in, sometimes you will be downloading assets forever. Its something i gotta address :P
 
 
-redis 安装步骤 https://www.runoob.com/redis/redis-install.html
-默认账号默认为 a/a、b/b
-C# 操纵redis https://blog.csdn.net/qq_45659882/article/details/121958035
+- redis 安装步骤 https://www.runoob.com/redis/redis-install.html
+- 默认账号默认为 a/a、b/b
+- C# 操纵redis https://blog.csdn.net/qq_45659882/article/details/121958035
